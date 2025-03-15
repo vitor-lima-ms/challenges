@@ -1,5 +1,3 @@
-"""beecrowd 1031"""
-
 def remove_last_occurence(list_, num):
     last_index = -1
     
